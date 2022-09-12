@@ -1,0 +1,19 @@
+#outputDiv {
+  display: none;
+}
+img {
+    float: left;
+    width:  700px;
+    height: 700px;
+    object-fit: center;
+}
+body {
+  margin: auto;
+  width: 700px; 
+  padding: 40px;
+  font-family: 'Avenir', sans-serif; 
+  color: #EF5350;    
+  background-color: #074f57;
+  background-image: url("https://images.unsplash.com/photo-1550992402-9b1fc58fd76d?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NjI0ODQxMDI&ixlib=rb-1.2.1&q=80");
+  background-size: center;
+}
